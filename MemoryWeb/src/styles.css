@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+i {
+  margin-right: 0.2rem;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.modal-backdrop {
+  opacity: 0.75 !important;
+}
+
+td {
+  font-size: 0.75rem;
+}
+th {
+  font-size: 0.85rem;
+}
